@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hola, soy Kiko SC 👋
+
+### **¿Quieres saber de mi?**
+Soy desarrollador autodidacta con habilidades en diferentes lenguajes de programación, herramientas y otras tecnologías. Actualmente tengo conocimientos para desarrollar programas en **Java**, **Python** y **JavaScript**; además de crear páginas web con **HTML** y **CSS**.
+En mi formación también he usado otras tecnologías como **NodeJS**, **Bootstrap** o **SASS**. En mis futuros proyectos me gustaría crear aplicaciones móviles con **Kotlin**, conocer **PHP** y **.NET**, o bases de datos.
+
+### **¿Qué puedes encontrar en mi perfil de GitHub?**
+En mis repositorios iré subiendo ejercicios resueltos de programación basados en pruebas técnicas y entrevistas de trabajo. Ocasionalmente subiré también apps para Android totalmente funcionales.
+
 
 <!--
 **kikoscdev/kikoscdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
